@@ -1,2 +1,3 @@
-> Это мудрая цитата
-> Мудрого человека.
+# **Palina Kivachuk**
+## **Student: Biomedical engineering | AGH**
+

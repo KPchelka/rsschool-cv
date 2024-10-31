@@ -14,3 +14,18 @@
 - Design: Figma
 
 ## **Code**
+```
+def infinite_loop():
+    while True:
+        print("I'm stuck in an infinite loop!")
+        break  # Just kidding, I won't break free!
+
+infinite_loop()
+```
+
+## **Language**
+- **English** B1
+- **Russian** native
+- **Belarusian** native
+- **Polish** C1
+
